@@ -9,8 +9,8 @@
 
 <p>&nbsp;</p>
 
-- 📫 **me@corehacked.cf**
-- 🌎 **https://corehacked.cf**
+- 📫 **me@corehacked.codes**
+- 🌎 **https://corehacked.codes**
 
 <p align="left">
 <a href="https://twitter.com/core_hacked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="core_hacked" height="30" width="40" /></a>
