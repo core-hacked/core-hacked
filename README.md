@@ -11,6 +11,7 @@
 
 - 📫 **me@corehacked.codes**
 - 🌎 **https://corehacked.codes**
+- 🪙 **XMR: 82jFc3hwnqDeRsGgPbpz7YFSedAYmjpPBdvZ4hNDK6aUS45ND9zZzUgdutQxg7RP2xLyEk4Kf9LYvedHUZRUCrC6MkyoqeR**
 
 <p align="left">
 <a href="https://twitter.com/core_hacked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="core_hacked" height="30" width="40" /></a>
