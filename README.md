@@ -7,8 +7,6 @@
 
 <p><img align="center" src="https://readme-stats-git-main-core-hacked.vercel.app/api/top-langs?username=core-hacked&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="core-hacked" /></p>
 
-<p>&nbsp;</p>
-
 - 📫 **me@corehacked.codes**
 - 🌎 **https://corehacked.codes**
 - 🪙 **XMR: 82jFc3hwnqDeRsGgPbpz7YFSedAYmjpPBdvZ4hNDK6aUS45ND9zZzUgdutQxg7RP2xLyEk4Kf9LYvedHUZRUCrC6MkyoqeR**
